@@ -3,3 +3,5 @@
 .classpath
 .project
 bin/
+Percolation/*.png
+Percolation/*.txt
